@@ -1,0 +1,26 @@
+.main {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: black;
+}
+.mainHolder {
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: 5px;
+}
+
+.mainHolder p{
+    position: relative;
+    width: auto;
+    height: auto;
+    font-size: 14px;
+    font-weight: 500;
+    color:#fff;
+}
